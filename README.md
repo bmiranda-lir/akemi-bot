@@ -1,2 +1,2 @@
-# akemi-bot
-Playground project for a basic Discord bot.
+# Akemi-bot
+Playground project to learn how to build a basic Discord bot.
