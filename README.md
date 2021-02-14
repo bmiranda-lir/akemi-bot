@@ -8,6 +8,7 @@ Playground project to learn how to build a basic Discord bot.
  
 ## Project dependencies
  - [Discord](https://pypi.org/project/discord.py/)
+ - [FFmpeg](https://ffmpeg.org/)
  - [PipEnv](https://pipenv.pypa.io/en/latest/) (Dependency manager)
  
  ## Setup
@@ -18,7 +19,7 @@ pipenv install
  ````
 ## Dependency management
 Please refer to the [pipenv documentation](https://pipenv.pypa.io/en/latest/),
-but overall package installation id done through the following command:
+but, overall, package installation is done through the following command:
 ````shell script
 pipenv install package-name
 ```` 
